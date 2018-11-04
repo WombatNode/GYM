@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 2ce8e93059fed45208625c745622560c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f00000040000000410000004200000043000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f00000090000000910000009200000093000000940000009500000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e010000
+  assetHash:
+    serializedVersion: 2
+    Hash: a48f7c0ee495a6242dc887c432e4c147
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.1156275, y: 3.7073376, z: -0.35167825}
+      lookAt: {x: -1.5288988, y: 3.2298725, z: -0.031315662}
+      up: {x: 0.5101253, y: 0.8137506, z: 0.27853593}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -2.1156275, y: 3.7073376, z: -0.35167825}
+        lookAt: {x: -1.5288988, y: 3.2298725, z: -0.031315662}
+        up: {x: 0.5101253, y: 0.8137506, z: 0.27853593}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Angle Iron
+    100002: Angle Iron 1
+    100004: Bar Lifts
+    100006: Bar Lifts 1
+    100008: Bolt On
+    100010: Bolt On 1
+    100012: Brace, Shoulder
+    100014: Cushion, Upper 29" Post Follow Me
+    100016: Cusion, Lower
+    100018: DB Handle
+    100020: DB Handle 1
+    100022: Dumbbell Rack
+    100024: Dumbbell Set
+    100026: Front Foot
+    100028: Group 153
+    100030: Group 164
+    100032: Group 75
+    100034: Group 90
+    100036: //RootNode
+    100038: Hex Head, 1/2"
+    100040: Hex Head, 1/2" 1
+    100042: Hex Head, 1/2" 10
+    100044: Hex Head, 1/2" 11
+    100046: Hex Head, 1/2" 12
+    100048: Hex Head, 1/2" 13
+    100050: Hex Head, 1/2" 14
+    100052: Hex Head, 1/2" 15
+    100054: Hex Head, 1/2" 16
+    100056: Hex Head, 1/2" 17
+    100058: Hex Head, 1/2" 18
+    100060: Hex Head, 1/2" 19
+    100062: Hex Head, 1/2" 2
+    100064: Hex Head, 1/2" 3
+    100066: Hex Head, 1/2" 4
+    100068: Hex Head, 1/2" 5
+    100070: Hex Head, 1/2" 6
+    100072: Hex Head, 1/2" 7
+    100074: Hex Head, 1/2" 8
+    100076: Hex Head, 1/2" 9
+    100078: Hinge
+    100080: Olympic Bar, 6', 15 lbs.
+    100082: Olympic Bench
+    100084: Olympic Weight Tree
+    100086: Olympic Weight tree v1
+    100088: Olympic Weight, 45 lbs
+    100090: Olympic Weight, 45 lbs 1
+    100092: Olympic Weight, 45 lbs 2
+    100094: Olympic Weights v2
+    100096: Recycled Floor
+    100098: Rib
+    100100: Rib 1
+    100102: Rib 10
+    100104: Rib 11
+    100106: Rib 2
+    100108: Rib 3
+    100110: Rib 4
+    100112: Rib 5
+    100114: Rib 6
+    100116: Rib 7
+    100118: Rib 8
+    100120: Rib 9
+    100122: Short Sections, Steel Square Pipe
+    100124: Short Sections, Steel Square Pipe 1
+    100126: Short Sections, Steel Square Pipe#1
+    100128: Short Sections, Steel Square Pipe#1 1
+    100130: Short Sections, Steel Square Pipe#2
+    100132: Short Sections, Steel Square Pipe#2 1
+    100134: Short Sections, Steel Square Pipe#3
+    100136: Short Sections, Steel Square Pipe#3 1
+    100138: Short Sections, Steel Square Pipe#4
+    100140: Short Sections, Steel Square Pipe#4 1
+    100142: Short Sections, Steel Square Pipe#5
+    100144: Short Sections, Steel Square Pipe#5 1
+    100146: Short Sections, Steel Square Pipe#6
+    100148: Short Sections, Steel Square Pipe#6 1
+    100150: Short Sections, Steel Square Pipe#7
+    100152: Short Sections, Steel Square Pipe#7 1
+    100154: Sport Tile
+    100156: Sport Tile 1
+    100158: Sport Tile 10
+    100160: Sport Tile 11
+    100162: Sport Tile 12
+    100164: Sport Tile 13
+    100166: Sport Tile 14
+    100168: Sport Tile 15
+    100170: Sport Tile 16
+    100172: Sport Tile 17
+    100174: Sport Tile 18
+    100176: Sport Tile 19
+    100178: Sport Tile 2
+    100180: Sport Tile 20
+    100182: Sport Tile 3
+    100184: Sport Tile 4
+    100186: Sport Tile 5
+    100188: Sport Tile 6
+    100190: Sport Tile 7
+    100192: Sport Tile 8
+    100194: Sport Tile 9
+    100196: Sport Tile Edge
+    100198: Sport Tile Edge 1
+    100200: Sport Tile Edge 2
+    100202: Sport Tile Edge 3
+    100204: Sport Tile Edge 4
+    100206: Sport Tile Edge 5
+    100208: Sport Tile Edge 6
+    100210: Sport Tile Edge 7
+    100212: Sport Tile Edge#1
+    100214: Sport Tile Edge#1 1
+    100216: Sport Tile Edge#1 2
+    100218: Sport Tile Edge#1 3
+    100220: Steel Square Pipe
+    100222: Steel Square Pipe 1
+    100224: Steel Square Pipe#1
+    100226: Steel Square Pipe#1 1
+    100228: Steel Square Pipe#3
+    100230: Steel Square Pipe#3 1
+    100232: Steel Square Pipe#4
+    100234: Steel Square Pipe#4 1
+    100236: Support Bar 1
+    100238: Support, Bar
+    100240: Support, Bar 1
+    100242: Support, Bar 2
+    100244: Support, Bar 3
+    100246: Support, Bar 4
+    100248: Support, Bar 5
+    100250: Text, 20.4 KG
+    100252: Text, 20.4 KG 1
+    100254: Text, 20.4 KG 2
+    100256: Text, 45 LBS.
+    100258: Text, 45 LBS. 1
+    100260: Text, 45 LBS. 2
+    100262: Text, Bar bell
+    100264: Text, Bar bell 1
+    100266: Text, Bar bell 2
+    100268: Text, Standard
+    100270: Text, Standard 1
+    100272: Text, Standard 2
+    100274: Weight, 20 lbs.
+    100276: Weight, 20 lbs. 1
+    100278: Weight, 20 lbs. 2
+    100280: Weight, 20 lbs. 3
+    100282: Weight, 20 lbs. 4
+    100284: Weight, 20 lbs. 5
+    100286: Weight, 20 lbs. 6
+    100288: Weight, 20 lbs. 7
+    400000: Angle Iron
+    400002: Angle Iron 1
+    400004: Bar Lifts
+    400006: Bar Lifts 1
+    400008: Bolt On
+    400010: Bolt On 1
+    400012: Brace, Shoulder
+    400014: Cushion, Upper 29" Post Follow Me
+    400016: Cusion, Lower
+    400018: DB Handle
+    400020: DB Handle 1
+    400022: Dumbbell Rack
+    400024: Dumbbell Set
+    400026: Front Foot
+    400028: Group 153
+    400030: Group 164
+    400032: Group 75
+    400034: Group 90
+    400036: //RootNode
+    400038: Hex Head, 1/2"
+    400040: Hex Head, 1/2" 1
+    400042: Hex Head, 1/2" 10
+    400044: Hex Head, 1/2" 11
+    400046: Hex Head, 1/2" 12
+    400048: Hex Head, 1/2" 13
+    400050: Hex Head, 1/2" 14
+    400052: Hex Head, 1/2" 15
+    400054: Hex Head, 1/2" 16
+    400056: Hex Head, 1/2" 17
+    400058: Hex Head, 1/2" 18
+    400060: Hex Head, 1/2" 19
+    400062: Hex Head, 1/2" 2
+    400064: Hex Head, 1/2" 3
+    400066: Hex Head, 1/2" 4
+    400068: Hex Head, 1/2" 5
+    400070: Hex Head, 1/2" 6
+    400072: Hex Head, 1/2" 7
+    400074: Hex Head, 1/2" 8
+    400076: Hex Head, 1/2" 9
+    400078: Hinge
+    400080: Olympic Bar, 6', 15 lbs.
+    400082: Olympic Bench
+    400084: Olympic Weight Tree
+    400086: Olympic Weight tree v1
+    400088: Olympic Weight, 45 lbs
+    400090: Olympic Weight, 45 lbs 1
+    400092: Olympic Weight, 45 lbs 2
+    400094: Olympic Weights v2
+    400096: Recycled Floor
+    400098: Rib
+    400100: Rib 1
+    400102: Rib 10
+    400104: Rib 11
+    400106: Rib 2
+    400108: Rib 3
+    400110: Rib 4
+    400112: Rib 5
+    400114: Rib 6
+    400116: Rib 7
+    400118: Rib 8
+    400120: Rib 9
+    400122: Short Sections, Steel Square Pipe
+    400124: Short Sections, Steel Square Pipe 1
+    400126: Short Sections, Steel Square Pipe#1
+    400128: Short Sections, Steel Square Pipe#1 1
+    400130: Short Sections, Steel Square Pipe#2
+    400132: Short Sections, Steel Square Pipe#2 1
+    400134: Short Sections, Steel Square Pipe#3
+    400136: Short Sections, Steel Square Pipe#3 1
+    400138: Short Sections, Steel Square Pipe#4
+    400140: Short Sections, Steel Square Pipe#4 1
+    400142: Short Sections, Steel Square Pipe#5
+    400144: Short Sections, Steel Square Pipe#5 1
+    400146: Short Sections, Steel Square Pipe#6
+    400148: Short Sections, Steel Square Pipe#6 1
+    400150: Short Sections, Steel Square Pipe#7
+    400152: Short Sections, Steel Square Pipe#7 1
+    400154: Sport Tile
+    400156: Sport Tile 1
+    400158: Sport Tile 10
+    400160: Sport Tile 11
+    400162: Sport Tile 12
+    400164: Sport Tile 13
+    400166: Sport Tile 14
+    400168: Sport Tile 15
+    400170: Sport Tile 16
+    400172: Sport Tile 17
+    400174: Sport Tile 18
+    400176: Sport Tile 19
+    400178: Sport Tile 2
+    400180: Sport Tile 20
+    400182: Sport Tile 3
+    400184: Sport Tile 4
+    400186: Sport Tile 5
+    400188: Sport Tile 6
+    400190: Sport Tile 7
+    400192: Sport Tile 8
+    400194: Sport Tile 9
+    400196: Sport Tile Edge
+    400198: Sport Tile Edge 1
+    400200: Sport Tile Edge 2
+    400202: Sport Tile Edge 3
+    400204: Sport Tile Edge 4
+    400206: Sport Tile Edge 5
+    400208: Sport Tile Edge 6
+    400210: Sport Tile Edge 7
+    400212: Sport Tile Edge#1
+    400214: Sport Tile Edge#1 1
+    400216: Sport Tile Edge#1 2
+    400218: Sport Tile Edge#1 3
+    400220: Steel Square Pipe
+    400222: Steel Square Pipe 1
+    400224: Steel Square Pipe#1
+    400226: Steel Square Pipe#1 1
+    400228: Steel Square Pipe#3
+    400230: Steel Square Pipe#3 1
+    400232: Steel Square Pipe#4
+    400234: Steel Square Pipe#4 1
+    400236: Support Bar 1
+    400238: Support, Bar
+    400240: Support, Bar 1
+    400242: Support, Bar 2
+    400244: Support, Bar 3
+    400246: Support, Bar 4
+    400248: Support, Bar 5
+    400250: Text, 20.4 KG
+    400252: Text, 20.4 KG 1
+    400254: Text, 20.4 KG 2
+    400256: Text, 45 LBS.
+    400258: Text, 45 LBS. 1
+    400260: Text, 45 LBS. 2
+    400262: Text, Bar bell
+    400264: Text, Bar bell 1
+    400266: Text, Bar bell 2
+    400268: Text, Standard
+    400270: Text, Standard 1
+    400272: Text, Standard 2
+    400274: Weight, 20 lbs.
+    400276: Weight, 20 lbs. 1
+    400278: Weight, 20 lbs. 2
+    400280: Weight, 20 lbs. 3
+    400282: Weight, 20 lbs. 4
+    400284: Weight, 20 lbs. 5
+    400286: Weight, 20 lbs. 6
+    400288: Weight, 20 lbs. 7
+    2100000: _defaultMat
+    2100002: Gym floor
+    2100004: BlackSteel
+    2100006: eee lllllDark Olive
+    2100008: GraySteel
+    2100010: Chrome
+    2100012: SteelGrip
+    2100014: _Metal-floor_
+    2100016: SteelGrey
+    2100018: Visible Black
+    2300000: Angle Iron
+    2300002: Angle Iron 1
+    2300004: Bar Lifts
+    2300006: Bar Lifts 1
+    2300008: Bolt On
+    2300010: Bolt On 1
+    2300012: Brace, Shoulder
+    2300014: Cushion, Upper 29" Post Follow Me
+    2300016: Cusion, Lower
+    2300018: DB Handle
+    2300020: DB Handle 1
+    2300022: Front Foot
+    2300024: Hex Head, 1/2"
+    2300026: Hex Head, 1/2" 1
+    2300028: Hex Head, 1/2" 10
+    2300030: Hex Head, 1/2" 11
+    2300032: Hex Head, 1/2" 12
+    2300034: Hex Head, 1/2" 13
+    2300036: Hex Head, 1/2" 14
+    2300038: Hex Head, 1/2" 15
+    2300040: Hex Head, 1/2" 16
+    2300042: Hex Head, 1/2" 17
+    2300044: Hex Head, 1/2" 18
+    2300046: Hex Head, 1/2" 19
+    2300048: Hex Head, 1/2" 2
+    2300050: Hex Head, 1/2" 3
+    2300052: Hex Head, 1/2" 4
+    2300054: Hex Head, 1/2" 5
+    2300056: Hex Head, 1/2" 6
+    2300058: Hex Head, 1/2" 7
+    2300060: Hex Head, 1/2" 8
+    2300062: Hex Head, 1/2" 9
+    2300064: Hinge
+    2300066: Olympic Bar, 6', 15 lbs.
+    2300068: Olympic Bench
+    2300070: Olympic Weight Tree
+    2300072: Olympic Weight, 45 lbs
+    2300074: Olympic Weight, 45 lbs 1
+    2300076: Olympic Weight, 45 lbs 2
+    2300078: Rib
+    2300080: Rib 1
+    2300082: Rib 10
+    2300084: Rib 11
+    2300086: Rib 2
+    2300088: Rib 3
+    2300090: Rib 4
+    2300092: Rib 5
+    2300094: Rib 6
+    2300096: Rib 7
+    2300098: Rib 8
+    2300100: Rib 9
+    2300102: Short Sections, Steel Square Pipe
+    2300104: Short Sections, Steel Square Pipe 1
+    2300106: Short Sections, Steel Square Pipe#1
+    2300108: Short Sections, Steel Square Pipe#1 1
+    2300110: Short Sections, Steel Square Pipe#2
+    2300112: Short Sections, Steel Square Pipe#2 1
+    2300114: Short Sections, Steel Square Pipe#3
+    2300116: Short Sections, Steel Square Pipe#3 1
+    2300118: Short Sections, Steel Square Pipe#4
+    2300120: Short Sections, Steel Square Pipe#4 1
+    2300122: Short Sections, Steel Square Pipe#5
+    2300124: Short Sections, Steel Square Pipe#5 1
+    2300126: Short Sections, Steel Square Pipe#6
+    2300128: Short Sections, Steel Square Pipe#6 1
+    2300130: Short Sections, Steel Square Pipe#7
+    2300132: Short Sections, Steel Square Pipe#7 1
+    2300134: Sport Tile
+    2300136: Sport Tile 1
+    2300138: Sport Tile 10
+    2300140: Sport Tile 11
+    2300142: Sport Tile 12
+    2300144: Sport Tile 13
+    2300146: Sport Tile 14
+    2300148: Sport Tile 15
+    2300150: Sport Tile 16
+    2300152: Sport Tile 17
+    2300154: Sport Tile 18
+    2300156: Sport Tile 19
+    2300158: Sport Tile 2
+    2300160: Sport Tile 20
+    2300162: Sport Tile 3
+    2300164: Sport Tile 4
+    2300166: Sport Tile 5
+    2300168: Sport Tile 6
+    2300170: Sport Tile 7
+    2300172: Sport Tile 8
+    2300174: Sport Tile 9
+    2300176: Sport Tile Edge
+    2300178: Sport Tile Edge 1
+    2300180: Sport Tile Edge 2
+    2300182: Sport Tile Edge 3
+    2300184: Sport Tile Edge 4
+    2300186: Sport Tile Edge 5
+    2300188: Sport Tile Edge 6
+    2300190: Sport Tile Edge 7
+    2300192: Sport Tile Edge#1
+    2300194: Sport Tile Edge#1 1
+    2300196: Sport Tile Edge#1 2
+    2300198: Sport Tile Edge#1 3
+    2300200: Steel Square Pipe
+    2300202: Steel Square Pipe 1
+    2300204: Steel Square Pipe#1
+    2300206: Steel Square Pipe#1 1
+    2300208: Steel Square Pipe#3
+    2300210: Steel Square Pipe#3 1
+    2300212: Steel Square Pipe#4
+    2300214: Steel Square Pipe#4 1
+    2300216: Support Bar 1
+    2300218: Support, Bar
+    2300220: Support, Bar 1
+    2300222: Support, Bar 2
+    2300224: Support, Bar 3
+    2300226: Support, Bar 4
+    2300228: Support, Bar 5
+    2300230: Text, 20.4 KG
+    2300232: Text, 20.4 KG 1
+    2300234: Text, 20.4 KG 2
+    2300236: Text, 45 LBS.
+    2300238: Text, 45 LBS. 1
+    2300240: Text, 45 LBS. 2
+    2300242: Text, Bar bell
+    2300244: Text, Bar bell 1
+    2300246: Text, Bar bell 2
+    2300248: Text, Standard
+    2300250: Text, Standard 1
+    2300252: Text, Standard 2
+    2300254: Weight, 20 lbs.
+    2300256: Weight, 20 lbs. 1
+    2300258: Weight, 20 lbs. 2
+    2300260: Weight, 20 lbs. 3
+    2300262: Weight, 20 lbs. 4
+    2300264: Weight, 20 lbs. 5
+    2300266: Weight, 20 lbs. 6
+    2300268: Weight, 20 lbs. 7
+    3300000: Angle Iron
+    3300002: Angle Iron 1
+    3300004: Bar Lifts
+    3300006: Bar Lifts 1
+    3300008: Bolt On
+    3300010: Bolt On 1
+    3300012: Brace, Shoulder
+    3300014: Cushion, Upper 29" Post Follow Me
+    3300016: Cusion, Lower
+    3300018: DB Handle
+    3300020: DB Handle 1
+    3300022: Front Foot
+    3300024: Hex Head, 1/2"
+    3300026: Hex Head, 1/2" 1
+    3300028: Hex Head, 1/2" 10
+    3300030: Hex Head, 1/2" 11
+    3300032: Hex Head, 1/2" 12
+    3300034: Hex Head, 1/2" 13
+    3300036: Hex Head, 1/2" 14
+    3300038: Hex Head, 1/2" 15
+    3300040: Hex Head, 1/2" 16
+    3300042: Hex Head, 1/2" 17
+    3300044: Hex Head, 1/2" 18
+    3300046: Hex Head, 1/2" 19
+    3300048: Hex Head, 1/2" 2
+    3300050: Hex Head, 1/2" 3
+    3300052: Hex Head, 1/2" 4
+    3300054: Hex Head, 1/2" 5
+    3300056: Hex Head, 1/2" 6
+    3300058: Hex Head, 1/2" 7
+    3300060: Hex Head, 1/2" 8
+    3300062: Hex Head, 1/2" 9
+    3300064: Hinge
+    3300066: Olympic Bar, 6', 15 lbs.
+    3300068: Olympic Bench
+    3300070: Olympic Weight Tree
+    3300072: Olympic Weight, 45 lbs
+    3300074: Olympic Weight, 45 lbs 1
+    3300076: Olympic Weight, 45 lbs 2
+    3300078: Rib
+    3300080: Rib 1
+    3300082: Rib 10
+    3300084: Rib 11
+    3300086: Rib 2
+    3300088: Rib 3
+    3300090: Rib 4
+    3300092: Rib 5
+    3300094: Rib 6
+    3300096: Rib 7
+    3300098: Rib 8
+    3300100: Rib 9
+    3300102: Short Sections, Steel Square Pipe
+    3300104: Short Sections, Steel Square Pipe 1
+    3300106: Short Sections, Steel Square Pipe#1
+    3300108: Short Sections, Steel Square Pipe#1 1
+    3300110: Short Sections, Steel Square Pipe#2
+    3300112: Short Sections, Steel Square Pipe#2 1
+    3300114: Short Sections, Steel Square Pipe#3
+    3300116: Short Sections, Steel Square Pipe#3 1
+    3300118: Short Sections, Steel Square Pipe#4
+    3300120: Short Sections, Steel Square Pipe#4 1
+    3300122: Short Sections, Steel Square Pipe#5
+    3300124: Short Sections, Steel Square Pipe#5 1
+    3300126: Short Sections, Steel Square Pipe#6
+    3300128: Short Sections, Steel Square Pipe#6 1
+    3300130: Short Sections, Steel Square Pipe#7
+    3300132: Short Sections, Steel Square Pipe#7 1
+    3300134: Sport Tile
+    3300136: Sport Tile 1
+    3300138: Sport Tile 10
+    3300140: Sport Tile 11
+    3300142: Sport Tile 12
+    3300144: Sport Tile 13
+    3300146: Sport Tile 14
+    3300148: Sport Tile 15
+    3300150: Sport Tile 16
+    3300152: Sport Tile 17
+    3300154: Sport Tile 18
+    3300156: Sport Tile 19
+    3300158: Sport Tile 2
+    3300160: Sport Tile 20
+    3300162: Sport Tile 3
+    3300164: Sport Tile 4
+    3300166: Sport Tile 5
+    3300168: Sport Tile 6
+    3300170: Sport Tile 7
+    3300172: Sport Tile 8
+    3300174: Sport Tile 9
+    3300176: Sport Tile Edge
+    3300178: Sport Tile Edge 1
+    3300180: Sport Tile Edge 2
+    3300182: Sport Tile Edge 3
+    3300184: Sport Tile Edge 4
+    3300186: Sport Tile Edge 5
+    3300188: Sport Tile Edge 6
+    3300190: Sport Tile Edge 7
+    3300192: Sport Tile Edge#1
+    3300194: Sport Tile Edge#1 1
+    3300196: Sport Tile Edge#1 2
+    3300198: Sport Tile Edge#1 3
+    3300200: Steel Square Pipe
+    3300202: Steel Square Pipe 1
+    3300204: Steel Square Pipe#1
+    3300206: Steel Square Pipe#1 1
+    3300208: Steel Square Pipe#3
+    3300210: Steel Square Pipe#3 1
+    3300212: Steel Square Pipe#4
+    3300214: Steel Square Pipe#4 1
+    3300216: Support Bar 1
+    3300218: Support, Bar
+    3300220: Support, Bar 1
+    3300222: Support, Bar 2
+    3300224: Support, Bar 3
+    3300226: Support, Bar 4
+    3300228: Support, Bar 5
+    3300230: Text, 20.4 KG
+    3300232: Text, 20.4 KG 1
+    3300234: Text, 20.4 KG 2
+    3300236: Text, 45 LBS.
+    3300238: Text, 45 LBS. 1
+    3300240: Text, 45 LBS. 2
+    3300242: Text, Bar bell
+    3300244: Text, Bar bell 1
+    3300246: Text, Bar bell 2
+    3300248: Text, Standard
+    3300250: Text, Standard 1
+    3300252: Text, Standard 2
+    3300254: Weight, 20 lbs.
+    3300256: Weight, 20 lbs. 1
+    3300258: Weight, 20 lbs. 2
+    3300260: Weight, 20 lbs. 3
+    3300262: Weight, 20 lbs. 4
+    3300264: Weight, 20 lbs. 5
+    3300266: Weight, 20 lbs. 6
+    3300268: Weight, 20 lbs. 7
+    4300000: Mesh Sport Tile
+    4300002: Mesh Sport Tile Edge
+    4300004: Mesh Sport Tile Edge#1
+    4300006: Mesh Olympic Bench
+    4300008: Mesh Cusion, Lower
+    4300010: Mesh Cushion, Upper 29" Post Follow Me
+    4300012: Mesh Hinge
+    4300014: Mesh Hex Head, 1/2"
+    4300016: Mesh Support, Bar
+    4300018: Mesh Support Bar 1
+    4300020: Mesh Bar Lifts
+    4300022: Mesh Brace, Shoulder
+    4300024: Mesh Front Foot
+    4300026: Mesh Bolt On
+    4300028: Mesh Weight, 20 lbs.
+    4300030: Mesh DB Handle
+    4300032: Mesh Steel Square Pipe
+    4300034: Mesh Steel Square Pipe#1
+    4300036: Mesh Short Sections, Steel Square Pipe
+    4300038: Mesh Short Sections, Steel Square Pipe#5
+    4300040: Mesh Short Sections, Steel Square Pipe#4
+    4300042: Mesh Short Sections, Steel Square Pipe#2
+    4300044: Mesh Short Sections, Steel Square Pipe#3
+    4300046: Mesh Short Sections, Steel Square Pipe#6
+    4300048: Mesh Short Sections, Steel Square Pipe#7
+    4300050: Mesh Short Sections, Steel Square Pipe#1
+    4300052: Mesh Steel Square Pipe#3
+    4300054: Mesh Steel Square Pipe#4
+    4300056: Mesh Angle Iron
+    4300058: Mesh Olympic Weight Tree
+    4300060: Mesh Olympic Weight, 45 lbs
+    4300062: Mesh Rib
+    4300064: Mesh Text, Standard
+    4300066: Mesh Text, Bar bell
+    4300068: Mesh Text, 45 LBS.
+    4300070: Mesh Text, 20.4 KG
+    4300072: Mesh Olympic Bar, 6', 15 lbs.
+    6400000: Angle Iron
+    6400002: Angle Iron 1
+    6400004: Bar Lifts
+    6400006: Bar Lifts 1
+    6400008: Bolt On
+    6400010: Bolt On 1
+    6400012: Brace, Shoulder
+    6400014: Cushion, Upper 29" Post Follow Me
+    6400016: Cusion, Lower
+    6400018: DB Handle
+    6400020: DB Handle 1
+    6400022: Front Foot
+    6400024: Hex Head, 1/2"
+    6400026: Hex Head, 1/2" 1
+    6400028: Hex Head, 1/2" 10
+    6400030: Hex Head, 1/2" 11
+    6400032: Hex Head, 1/2" 12
+    6400034: Hex Head, 1/2" 13
+    6400036: Hex Head, 1/2" 14
+    6400038: Hex Head, 1/2" 15
+    6400040: Hex Head, 1/2" 16
+    6400042: Hex Head, 1/2" 17
+    6400044: Hex Head, 1/2" 18
+    6400046: Hex Head, 1/2" 19
+    6400048: Hex Head, 1/2" 2
+    6400050: Hex Head, 1/2" 3
+    6400052: Hex Head, 1/2" 4
+    6400054: Hex Head, 1/2" 5
+    6400056: Hex Head, 1/2" 6
+    6400058: Hex Head, 1/2" 7
+    6400060: Hex Head, 1/2" 8
+    6400062: Hex Head, 1/2" 9
+    6400064: Hinge
+    6400066: Olympic Bar, 6', 15 lbs.
+    6400068: Olympic Bench
+    6400070: Olympic Weight Tree
+    6400072: Olympic Weight, 45 lbs
+    6400074: Olympic Weight, 45 lbs 1
+    6400076: Olympic Weight, 45 lbs 2
+    6400078: Rib
+    6400080: Rib 1
+    6400082: Rib 10
+    6400084: Rib 11
+    6400086: Rib 2
+    6400088: Rib 3
+    6400090: Rib 4
+    6400092: Rib 5
+    6400094: Rib 6
+    6400096: Rib 7
+    6400098: Rib 8
+    6400100: Rib 9
+    6400102: Short Sections, Steel Square Pipe
+    6400104: Short Sections, Steel Square Pipe 1
+    6400106: Short Sections, Steel Square Pipe#1
+    6400108: Short Sections, Steel Square Pipe#1 1
+    6400110: Short Sections, Steel Square Pipe#2
+    6400112: Short Sections, Steel Square Pipe#2 1
+    6400114: Short Sections, Steel Square Pipe#3
+    6400116: Short Sections, Steel Square Pipe#3 1
+    6400118: Short Sections, Steel Square Pipe#4
+    6400120: Short Sections, Steel Square Pipe#4 1
+    6400122: Short Sections, Steel Square Pipe#5
+    6400124: Short Sections, Steel Square Pipe#5 1
+    6400126: Short Sections, Steel Square Pipe#6
+    6400128: Short Sections, Steel Square Pipe#6 1
+    6400130: Short Sections, Steel Square Pipe#7
+    6400132: Short Sections, Steel Square Pipe#7 1
+    6400134: Sport Tile
+    6400136: Sport Tile 1
+    6400138: Sport Tile 10
+    6400140: Sport Tile 11
+    6400142: Sport Tile 12
+    6400144: Sport Tile 13
+    6400146: Sport Tile 14
+    6400148: Sport Tile 15
+    6400150: Sport Tile 16
+    6400152: Sport Tile 17
+    6400154: Sport Tile 18
+    6400156: Sport Tile 19
+    6400158: Sport Tile 2
+    6400160: Sport Tile 20
+    6400162: Sport Tile 3
+    6400164: Sport Tile 4
+    6400166: Sport Tile 5
+    6400168: Sport Tile 6
+    6400170: Sport Tile 7
+    6400172: Sport Tile 8
+    6400174: Sport Tile 9
+    6400176: Sport Tile Edge
+    6400178: Sport Tile Edge 1
+    6400180: Sport Tile Edge 2
+    6400182: Sport Tile Edge 3
+    6400184: Sport Tile Edge 4
+    6400186: Sport Tile Edge 5
+    6400188: Sport Tile Edge 6
+    6400190: Sport Tile Edge 7
+    6400192: Sport Tile Edge#1
+    6400194: Sport Tile Edge#1 1
+    6400196: Sport Tile Edge#1 2
+    6400198: Sport Tile Edge#1 3
+    6400200: Steel Square Pipe
+    6400202: Steel Square Pipe 1
+    6400204: Steel Square Pipe#1
+    6400206: Steel Square Pipe#1 1
+    6400208: Steel Square Pipe#3
+    6400210: Steel Square Pipe#3 1
+    6400212: Steel Square Pipe#4
+    6400214: Steel Square Pipe#4 1
+    6400216: Support Bar 1
+    6400218: Support, Bar
+    6400220: Support, Bar 1
+    6400222: Support, Bar 2
+    6400224: Support, Bar 3
+    6400226: Support, Bar 4
+    6400228: Support, Bar 5
+    6400230: Text, 20.4 KG
+    6400232: Text, 20.4 KG 1
+    6400234: Text, 20.4 KG 2
+    6400236: Text, 45 LBS.
+    6400238: Text, 45 LBS. 1
+    6400240: Text, 45 LBS. 2
+    6400242: Text, Bar bell
+    6400244: Text, Bar bell 1
+    6400246: Text, Bar bell 2
+    6400248: Text, Standard
+    6400250: Text, Standard 1
+    6400252: Text, Standard 2
+    6400254: Weight, 20 lbs.
+    6400256: Weight, 20 lbs. 1
+    6400258: Weight, 20 lbs. 2
+    6400260: Weight, 20 lbs. 3
+    6400262: Weight, 20 lbs. 4
+    6400264: Weight, 20 lbs. 5
+    6400266: Weight, 20 lbs. 6
+    6400268: Weight, 20 lbs. 7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
